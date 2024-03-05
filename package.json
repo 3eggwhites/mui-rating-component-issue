@@ -1,0 +1,12 @@
+{
+    "name": "mui-rating-component-issue",
+    "private": true,
+    "version": "1.0.0",
+    "scripts": {
+      "stop": "kill-port --port 5000,5001"
+    },
+    "devDependencies": {
+      "kill-port": "^2.0.1"
+    }
+  }
+  
